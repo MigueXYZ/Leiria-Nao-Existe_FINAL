@@ -1,0 +1,12 @@
+A família **Novák** sempre manteve uma coleção secreta de itens e artefatos mágicos, cada um com um propósito específico ou ligado a práticas ocultas. Esta coleção foi cuidadosamente guardada ao longo dos anos, passando de geração em geração. 
+### **O Mapa de [[Leiria]]**
+O mapa de [[Leiria]] não é um simples pedaço de papel; ele é um artefato mágico. Feito à mão por um dos ancestrais de Gabriel, o mapa representa não apenas uma representação geográfica, mas também um portal para dimensões ocultas. Este item foi mantido em segredo pela família, sendo passado de geração em geração, mas sempre com um aviso: "Quem o seguir sem a devida preparação pode perder-se para sempre." O mapa parece alterar-se conforme a proximidade de certos eventos ou rituais, indicando não apenas a localização física, mas também portais dimensionais ligados à cidade.
+
+- **Origem**: O mapa foi criado por um dos primeiros membros da [[Família Novák]], possivelmente um dos eremitas alquimistas que buscava entender a natureza do universo e das forças paranormais.
+- **Características**: Ao olhar para o mapa, é possível ver uma representação de [[Leiria]] que se desvia ligeiramente da versão conhecida da cidade. O mapa é incompleto, com áreas sombreadas ou apagadas, como se algo estivesse oculto.
+- **Função**: Além de indicar o caminho para [[Leiria]], o mapa possui propriedades místicas. Ele pode guiar quem o usa até a cidade, mas também ativa feitiços antigos que podem levar a portais para outras dimensões, dependendo de como e quando for utilizado.
+- **Aparência**: O mapa é feito de um papel envelhecido, com marcas de tinta que parecem quase líquidas em alguns pontos, como se estivessem constantemente em movimento. Há símbolos ocultistas gravados em sua borda, e o desenho da cidade de [[Leiria]] apresenta contornos misteriosos, com ruas e locais que não existem no mundo físico.
+
+### **Itens Relacionados**
+- **O Livro de Rituais**: Um grimório antigo, passado de geração em geração, que contém feitiços e rituais de necromancia e teletransporte. Alguns rituais estão diretamente relacionados ao uso do mapa de [[Leiria]] e à abertura de portais dimensionais.
+- **O Amuleto de Proteção**: Um amuleto criado pela família para proteger contra as energias negativas ao redor de [[Leiria]]. Apenas um membro da família com forte laço sanguíneo pode usá-lo efetivamente, e ele é considerado essencial para aqueles que buscam entrar ou sair de [[Leiria]] sem sofrer as consequências.
