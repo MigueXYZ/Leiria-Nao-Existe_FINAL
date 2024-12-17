@@ -1,0 +1,4 @@
+
+Quando vocês se aproximam da base da torre, notam que a estrutura é feita de pedra e metal, e as portas de entrada são de um material escuro e opaco, mas as frestas parecem brilhar com uma luz suave. A sensação de estar sendo observados fica ainda mais intensa, mas é como se o próprio lugar estivesse se **abrindo** para vocês, convidando-os a entrar.
+
+Ao entrarem, o ar torna-se mais denso, como se a atmosfera ao redor estivesse reagindo à sua presença. Dentro da torre, o ambiente é um **labirinto de corredores e salas** que parecem estar em uma constante transformação. As paredes pulsando com luzes fracas, e o som da névoa se agita, quase como se estivesse viva. Cada passo que dão ecoa de maneira estranha, distorcida, como se o espaço ao redor fosse maior ou menor do que realmente deveria ser.
