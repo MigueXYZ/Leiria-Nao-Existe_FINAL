@@ -1,4 +1,7 @@
 # Leiria Não Existe
+---
+location: [39.74403812737184,-8.805163990367536]
+---
 
 ## Resumo
 Leiria é uma cidade escondida, acessível apenas por uma estrada na floresta. Aqueles que entram descobrem uma cidade aparentemente perfeita, mas estão presos sem perceber. Uma entidade conhecida como **A Voz da Cidade** manipula os sentimentos e memórias, fazendo com que os moradores esqueçam o mundo de fora e desistam de sair.

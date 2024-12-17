@@ -25,7 +25,7 @@ O **Mapa de [[Leiria]]** é um artefato místico singular, envolto em mistério 
 
 #### **Conteúdo Visível**
 - **A Cidade de [[Leiria]]**: A cidade está representada com um nível de detalhe que impressiona, mesmo para um cartógrafo moderno. No entanto, nem todas as ruas ou edifícios são reconhecíveis; algumas áreas estão apagadas ou cobertas por sombras móveis.  
-- **Rota Escondida**: No canto inferior direito, uma estrada curva aparece e desaparece intermitentemente, levando a um ponto marcado com um símbolo semelhante a um olho humano — possivelmente o ponto central para acessar [[Leiria]] ou um portal para outro plano.  
+- **Rota Escondida**: No canto inferior direito, uma estrada curva aparece e desaparece intermitentemente, levando a um ponto marcado com um símbolo semelhante a um olho humano — possivelmente o ponto central para acessar [[Leiria]] ou um [[portal]] para outro plano.  39°38'30.8"N 8°41'39.6"W
 - **Escrita Invisível**: Quando iluminado com luz UV, é possível umas coordenadas escritas, as coordenadas dão num [[Ponto sem saída]], ou dão?
 
 ---

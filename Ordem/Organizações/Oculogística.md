@@ -49,3 +49,12 @@ O logo da **Oculogística** é uma representação estilizada de um olho com mú
 
 - **Conflitos**: Caso os agentes da **[[Ordo Realitas]]** ou outros grupos investiguem a **Oculogística**, podem ser confrontados com segurança pesada, manipuladores de energia e até forças paranormais controladas pela empresa, todas em busca de manter o controle sobre o que é descoberto sobre [[Leiria]] e outros fenômenos ocultos.
 
+### Pesquisas sobre:
+
+Procurar na internet vai ter 0 resultados sobre, visto que é uma organização secreta
+
+Livros vão dizer nada, visto que é uma empresa recente
+
+A ordem não conhece nada sobre
+
+
