@@ -4,6 +4,8 @@
 
 - **O Ar Pesado**: Todos os personagens presentes começam a sentir uma sensação de desconforto crescente à medida que se aproximam do local. O ar parece mais denso e carregado, como se o ambiente estivesse comprimido, dificultando a respiração. Uma sensação de peso emocional e físico toma conta do grupo. A névoa que começa a se formar ao redor parece intensificar essa sensação, tornando a área ainda mais claustrofóbica.
 
+- **Segurança**: O lugar tem diversos seguranças, ver policia página 295 de Ordem Paranormal eles são hostis e iram atacar sem pensar. Jamais Entraram no caminho da floresta, visto que são estritamente proibidos do fazerem.
+
 - **A Atração do Mapa**: Se algum dos personagens estiver carregando o [[mapa de Leiria]], a situação muda drasticamente. Por mais que todos sintam a pressão no ar, aquele que estiver com o mapa sente uma atração inexplicável em continuar. O mapa, em sua presença, parece pulsar levemente, como se tivesse vida própria, guiando o portador para além da cerca e do ponto sem saída. Mesmo sem ouvir nada, uma sensação de chamado o impulsiona a seguir em frente, desafiando a tensão e o medo no local.
 
 - **As Placas de "[[Oculogística]]"**: Ao investigar mais a fundo, os personagens encontram placas espalhadas ao redor da cerca com o logotipo de uma empresa chamada "[[Oculogística]]". O nome é estranho, não registrado em nenhum dos bancos de dados conhecidos, e não há informações sobre a empresa. Seu logo é enigmático, com uma simbologia que parece algo entre ciência e ocultismo, sugerindo uma conexão com o sobrenatural ou com tecnologia avançada. As placas estão estrategicamente posicionadas, mas não parecem ter sido danificadas ou alteradas, o que sugere que a empresa tem um controle rigoroso sobre o local.
