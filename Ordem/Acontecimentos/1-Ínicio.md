@@ -1,0 +1,1 @@
+Toda a gente está no seu lugar de conforto quando todos recebem uma mensagem às 

@@ -44,3 +44,12 @@ A **[[Ordo Realitas]]** recebeu informações confidenciais sobre um acidente de
 - **Fenômenos Paranormais**: Durante a exploração, os agentes podem ser confrontados com distúrbios temporais, como flashes de memória do passado de Gabriel Novák ou visões de eventos que ocorreram na cidade de [[Leiria]]. Isso pode incluir visões de pessoas desaparecidas, símbolos arcanos ou até mesmo momentos de necromancia.
     
 - **Inimigos e Oponentes**: Além dos fenômenos paranormais, os agentes podem começar a perceber que não estão sozinhos. Outros grupos ocultistas, que também buscam o segredo de [[Leiria]], podem tentar intervir ou competir com a **[[Ordo Realitas]]** para obter o mapa e as informações.
+
+## **Documentos importantes**
+
+- [[Mapa de Leiria]]
+- Cartão de Cidadão do [[Dr. Gabriel Novák]]
+- Alguns documentos arqueológicos:
+	- Licença para exploração do local
+	- Mapa topográfico do sitio onde encontrou o mapa:
+		- [[Čachtice]], mais especifico, da zona do castelo

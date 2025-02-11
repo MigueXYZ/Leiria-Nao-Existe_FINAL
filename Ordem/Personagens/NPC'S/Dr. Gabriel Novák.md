@@ -1,6 +1,6 @@
 Ver também [[Família Novák]]
 ## **Resumo**
-Gabriel Novák é um arqueólogo português de origem tcheca, nascido em Lisboa, que dedicou sua vida ao estudo de fenômenos sobrenaturais e lugares misteriosos. Cresceu em uma família de origem checa, com uma herança cultural que o levou a explorar temas pouco convencionais dentro de sua área. Durante suas investigações, ele descobriu o mapa que leva à cidade de [[Leiria]], uma descoberta que, por ironia do destino, lhe custou a vida em um [[Acidente de Avião]].
+Gabriel Novák é um arqueólogo português de origem tcheca, nascido em Lisboa, que dedicou sua vida ao estudo de fenômenos sobrenaturais e lugares misteriosos. Cresceu em uma família de origem checa, com uma herança cultural que o levou a explorar temas pouco convencionais dentro de sua área. Durante suas investigações, ele descobriu o mapa que leva à cidade de [[Leiria]], uma descoberta que, por ironia do destino, lhe custou a vida em um [[2-Acidente de Avião]].
 
 ## **Histórico**
 - **Nome Completo**: Gabriel Novák
@@ -24,3 +24,5 @@ Gabriel Novák não estava apenas à procura de uma cidade perdida; ele queria e
 - O mapa de Gabriel não é apenas um meio de encontrar [[Leiria]], mas pode também ser um artefato mágico que protege a cidade ou controla quem tem acesso a ela.
 - Durante a investigação da missão, os agentes podem descobrir anotações de Gabriel que detalham suas teorias sobre [[Leiria]] e como ela se conecta a outras dimensões ou planos de existência.
 - Gabriel estava começando a perceber que [[Leiria]] poderia ser uma cidade que não pertence completamente ao nosso mundo, o que o colocou em grande perigo, talvez até atrapalhando forças maiores que tentavam impedir a revelação desse segredo.
+
+Ele está vivo como uma [[Alma Penada]] em [[Leiria]]

@@ -11,5 +11,5 @@ Ao passar pelo portão, uma névoa começa a subir e envolve-os de uma maneira e
 
 Ao andarem mais para a frente a floresta que vocês viram ao chegar torna-se num campo aberto, e a vegetação ao invés de serem árvores, passam a ser arbustos rasos com formatos peculiares, como se alguém tivesse-os podado para ficarem dessa forma.
 
-Ao continuarem, podem ver um prédio que parece uma torre infinitamente alta.
+Ao continuarem, podem ver um [[prédio]] que parece uma torre infinitamente alta.
 Ao entrar --Ver [[Prédio]]--
