@@ -1,3 +1,4 @@
+# Regras
 # <span style="color:rgb(0, 176, 240)">Pericias</span>
 
 ## <span style="color:rgb(146, 208, 80)">Como Usar Perícias</span>
@@ -89,9 +90,11 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 	- **Armas Ágeis**: Ao invés de aplicar força pode aplicar agilidade nas rolagens de ataque e dano
 	- **Armas Automáticas**: Pode disparar de rajada, -1d20 no teste de acerto, +1 dado de dano
 	- **Coronhada**: 1d4 para armas de fogo leve e uma mão, 1d6 para armas de fogo de duas mãos
+
 ### Modificações:
 - Modificações podem ser aplicadas em armas, elas dão um boost à arma em troca de aumentar a categoria da mesma.
 - Ver Página 61 do livro.
+
 ### Lista:
 
 | Categoria          | Arma                          | Dano     | Crítico | Alcance | Tipo | Espaços | Categoria |
@@ -158,6 +161,74 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 |                    | Combustível                   | —        | —       | —       | —    | 1       | 1         |
 |                    | Metralhadora                  | 2d12     | 19/x3   | Médio   | B    | 2       | 2         |
 |                    | Balas longas                  | —        | —       | —       | —    | 1       | 1         |
+## <span style="color:rgb(0, 176, 240)">Proteções</span>
+
+A maioria dos civis e personagens sem treinamento em combate usa roupas comuns. Quem espera encrenca pode optar por proteções (trajes reforçados ou blindados).
+
+### <span style="color:rgb(146, 208, 80)">Características das Proteções</span>
+
+- **Defesa:** Valor de defesa fornecido pela proteção.
+- **Categoria:** Determina quais equipamentos podem ser requisitados.
+- **Espaço:** Quantidade de espaço que a proteção ocupa no inventário.
+- **Penalidade por Não Proficiência:** Uso sem proficiência acarreta –OO em testes baseados em Força e Agilidade.
+
+### <span style="color:rgb(146, 208, 80)">Tipos de Proteção</span>
+
+- **Proteção Leve:**  
+  Ex.: Jaqueta de couro pesada ou colete de kevlar.  
+  Usada por seguranças e policiais.
+
+- **Proteção Pesada:**  
+  Utilizada por forças especiais, polícia e exército.  
+  Inclui capacete, ombreiras, joelheiras, caneleiras e um colete com várias camadas de kevlar.  
+  Oferece resistência a balístico, corte, impacto e perfuração (nível 2), mas impõe –5 em testes de perícias com penalidade de carga.
+
+- **Escudo:**  
+  Pode ser medieval ou moderno (usado por tropas de choque).  
+  Deve ser empunhado com uma mão e fornece +2 de Defesa.  
+  Conta como proteção pesada para efeitos de proficiência e penalidade.
+
+### <span style="color:rgb(146, 208, 80)">Modificações em Proteções</span>
+
+Proteções podem ser modificadas. Cada modificação aumenta a categoria do item em 1 e concede benefícios específicos (modificações iguais não se acumulam).
+
+#### <span style="color:rgb(146, 208, 80)">Descrição das Modificações</span>
+
+- **Antibombas:**  
+  Aplicável apenas em proteções pesadas.  
+  Tratada para resistir ao calor e amortecer estilhaços; acompanha capacete com viseira.  
+  Fornece +5 em testes de resistência contra efeitos de área.
+
+- **Blindada:**  
+  Aplicável apenas em proteções pesadas.  
+  Reforçada com placas de aço e cerâmica, aumenta a resistência a dano para 5 e adiciona +1 ao espaço ocupado.
+
+- **Discreta:**  
+  Aplicável apenas em proteções leves.  
+  Colete compacto de kevlar denso que reduz o espaço em 1, fornece +5 em testes de Crime para ocultação e permite o teste mesmo sem treinamento na perícia.
+
+- **Reforçada:**  
+  Aumenta a Defesa em +2 e o espaço ocupado em +1.  
+  Não pode ser combinada com a modificação Discreta.
+
+### <span style="color:rgb(146, 208, 80)">Tabelas Resumidas</span>
+
+#### Tabela 3.6: Proteções
+
+| Proteção | Defesa | Categoria | Espaços |
+| -------- | ------ | --------- | ------- |
+| Leve     | +5     | I         | 2       |
+| Pesada   | +10    | II        | 5       |
+| Escudo   | +2     | I         | 2       |
+
+#### Tabela 3.7: Modificações para Proteções
+
+| Modificação | Efeito                                                            |
+| ----------- | ----------------------------------------------------------------- |
+| Antibombas  | +5 em testes de resistência contra efeitos de área                |
+| Blindada    | Aumenta a resistência a dano para 5 e o espaço em +1                |
+| Discreta    | +5 em testes de ocultar e reduz o espaço em –1                      |
+| Reforçada   | Aumenta a Defesa em +2 e o espaço em +1                              |
 
 # <span style="color:rgb(0, 176, 240)">Condições</span>
 
