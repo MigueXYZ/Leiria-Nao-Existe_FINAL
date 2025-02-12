@@ -232,6 +232,125 @@ Proteções podem ser modificadas. Cada modificação aumenta a categoria do ite
 | Discreta    | +5 em testes de ocultar e reduz o espaço em –1                      |
 | Reforçada   | Aumenta a Defesa em +2 e o espaço em +1                              |
 
+# <span style="color:rgb(0, 176, 240)">Equipamentos Gerais</span>
+
+
+## <span style="color:rgb(146, 208, 80)">Acessórios</span>
+
+| Nome           | Categoria | Espaços |
+| -------------- | --------- | ------- |
+| Kit de perícia | 0         | 1       |
+| Utensílio      | I         | 1       |
+| Vestimenta     | I         | 1       |
+- **Kit de perícia**: O kit tira o -5 que recebes em perícias se não o usarem
+- **Utensílio**: Um item que dá +2 numa perícia (menos luta/pontaria)
+	- Smartphone, +2 em tecnologia por exemplo
+- **Vestimenta**: Uma peça de roupa que dá +2 numa perícia (menos luta/pontaria)
+	- Botas Militares, +2 em atletismo por exemplo
+
+- **Modificações**: Aumentam em 1 a categoria.
+	- **Aprimorado**: O bónus aumenta em +5
+	- **Discreto**: Reduz o espaço do item em 1, dá +5 em Crime e faz com que seja possível usar Crime sem ter treinado.
+	- **Função Adicional**: Fornece +2 em outra perícia se o mestre concordar
+	- **Instrumental**: O acessório pode ser usado como um kit de perícia
+## <span style="color:rgb(146, 208, 80)">Explosivos</span>
+
+| Nome                    | Categoria | Espaços |
+| ----------------------- | --------- | ------- |
+| Granada de atordoamento | 0         | 1       |
+| Granada de fragmentação | I         | 1       |
+| Granada de fumo         | 0         | 1       |
+| Granada incendiária     | I         | 1       |
+| Mina antipessoal        | I         | 1       |
+- **Geral**:
+	- Alcance médio, área de efeito 6 metros
+- **Atordoamento**: Atordoado por 1 rodada, saving throw de Fortitude Resiste
+- **Frag**: 8d6 de dano de perfuração, saving throw reflexos reduz a metade
+- **Fumo**: Camuflagem total, 2 rondas
+- **Incendiária**: 6d6 de dano de fogo, ficam em chamas, saving throw reflexos reduz a metade e evita arder
+## <span style="color:rgb(146, 208, 80)">Itens Operacionais</span>
+
+| Nome                         | Categoria | Espaços |
+| ---------------------------- | --------- | ------- |
+| Algemas                      | 0         | 1       |
+| Arpéu                        | 0         | 1       |
+| Bandoleira                   | I         | 1       |
+| Binóculos                    | 0         | 1       |
+| Bloqueador de sinal          | I         | 1       |
+| Cicatrizante                 | I         | 1       |
+| Corda                        | 0         | 1       |
+| Equipamento de sobrevivência | 0         | 2       |
+| Lanterna tática              | I         | 1       |
+| Máscara de gás               | 0         | 1       |
+| Mochila militar              | I         | *       |
+| Óculos de visão térmica      | I         | 1       |
+| Pé de cabra                  | 0         | 1       |
+| Pistola de dardos            | I         | 1       |
+| Pistola sinalizadora         | 0         | 1       |
+| Soqueira                     | 0         | 1       |
+| Spray de pimenta             | I         | 1       |
+| Taser                        | I         | 1       |
+| Traje hazmat                 | I         | 2       |
+### <span style="color:rgb(146, 208, 80)">Equipamentos Gerais (Resumo)</span>
+
+- **<span style="color:rgb(255, 0, 0)">Algemas</span>:**  
+  Par de algemas de aço para prender uma pessoa. Requer empunhar, agarrar (consulte “Manobras de Combate”) e vencer um teste de agarrar. Permite prender os dois pulsos (–5 em testes que usem as mãos e impede conjuração) ou prender um pulso a um objeto fixo para limitar o movimento. Escapar exige um teste de Acrobacia (DT 30) ou uso de chaves.
+
+- **<span style="color:rgb(255, 0, 0)">Arpéu</span>:**  
+  Gancho de aço com corda para fixação em muros, janelas ou parapeitos. Prender um arpéu requer um teste de Pontaria (DT 15). Usar a corda para subir um muro fornece +5 em testes de Atletismo.
+
+- **<span style="color:rgb(255, 0, 0)">Bandoleira</span>:**  
+  Cinto com bolsos e alças que permite, uma vez por rodada, sacar ou guardar um item no inventário como ação livre.
+
+- **<span style="color:rgb(255, 0, 0)">Binóculos</span>:**  
+  Binóculos militares que concedem +5 em testes de Percepção para observar objetos ou eventos a distância.
+
+- **<span style="color:rgb(255, 0, 0)">Bloqueador de Sinal</span>:**  
+  Dispositivo compacto que emite ondas para interferir nas frequências de rádio de celulares, impedindo conexões em alcance médio.
+
+- **<span style="color:rgb(255, 0, 0)">Cicatrizante</span>:**  
+  Spray com remédio de potente efeito cicatrizante. Usado com uma ação padrão, cura 2d8+2 PV em si mesmo ou em um ser adjacente.
+
+- **<span style="color:rgb(255, 0, 0)">Corda</span>:**  
+  Rolo com 10 metros de corda resistente, útil para descer buracos ou prédios (oferece +5 em testes de Atletismo nessas situações) e para amarrar pessoas inconscientes.
+
+- <span style="color:rgb(255, 0, 0)">**Equipamento de Sobrevivência</span>:**  
+  Mochila com itens essenciais (saco de dormir, panelas, GPS, etc.) que fornece +5 em testes de Sobrevivência para acampar e orientar-se, permitindo tais testes sem treinamento.
+
+- **<span style="color:rgb(255, 0, 0)">Lanterna Tática</span>:**  
+  Ilumina ambientes escuros e, ao ser direcionada nos olhos de um alvo em alcance curto (ação de movimento), o ofusca por 1 rodada (o alvo fica imune à lanterna pelo restante da cena).
+
+- **<span style="color:rgb(255, 0, 0)">Máscara de Gás</span>:**  
+  Máscara com filtro que cobre o rosto inteiro, concedendo +10 em testes de Fortitude contra efeitos que dependam da respiração.
+
+- **<span style="color:rgb(255, 0, 0)">Mochila Militar</span>:**  
+  Mochila leve e de alta qualidade que não ocupa espaço e aumenta a capacidade de carga em 2 espaços.
+
+- **<span style="color:rgb(255, 0, 0)">Óculos de Visão Térmica</span>:**  
+  Permitem eliminar a penalidade em testes de camuflagem, facilitando a observação através da visão térmica.
+
+- **<span style="color:rgb(255, 0, 0)">Pé de Cabra</span>:**  
+  Barra de ferro que fornece +5 em testes de Força para arrombar portas e pode ser utilizada como arma corpo a corpo (similar a um bastão).
+
+- **<span style="color:rgb(255, 0, 0)">Pistola de Dardos</span>:**  
+  Arma que dispara dardos com um potente sonífero, deixando o alvo inconsciente até o fim da cena se o ataque for bem-sucedido (testes de Fortitude, Agilidade e outros podem ser aplicados conforme as regras). Vem com 2 dardos; dardos extras são itens de categoria 0 que ocupam 1 espaço.
+
+- **<span style="color:rgb(255, 0, 0)">Pistola Sinalizadora</span>:**  
+  Dispara um sinalizador luminoso para chamar atenção, podendo ser usada como arma de disparo leve (causa 2d6 de dano de fogo, alcance curto). Vem com 2 cargas; cargas extras são itens de categoria 0 que ocupam 1 espaço.
+
+- **<span style="color:rgb(255, 0, 0)">Soqueira</span>:**  
+  Peça de metal usada entre os dedos que melhora os ataques desarmados, fornecendo +1 em rolagens de dano desarmado. Pode receber modificações e maldições de armas corpo a corpo, aplicando seus efeitos aos ataques desarmados.
+
+- **<span style="color:rgb(255, 0, 0)">Spray de Pimenta</span>:**  
+  Spray químico que causa dor e lacrimação. Gasta-se uma ação padrão para atingir um alvo adjacente, que fica cego por 1d4 rodadas se não conseguir evitar o efeito (através de teste de Fortitude, Agilidade, etc.). A carga dura dois usos.
+
+- **<span style="color:rgb(255, 0, 0)">Taser</span>:**  
+  Dispositivo de eletrochoque que, ao ser disparado contra um alvo adjacente (usando uma ação padrão), causa 1d6 de dano de eletricidade e o atordoa por 1 rodada (se o teste de Fortitude do alvo falhar). A bateria dura dois usos.
+
+- **<span style="color:rgb(255, 0, 0)">Traje Hazmat</span>:**  
+  Roupa impermeável que cobre o corpo inteiro, usada para evitar o contato com materiais tóxicos. Concede +5 em testes de resistência contra efeitos ambientais e resistência a químicos (valor 10).
+
+
 # <span style="color:rgb(0, 176, 240)">Condições</span>
 
 # <span style="color:rgb(0, 176, 240)">Ações Livres</span>
