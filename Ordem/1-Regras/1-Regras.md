@@ -357,9 +357,6 @@ Proteções podem ser modificadas. Cada modificação aumenta a categoria do ite
 
 - **<span style="color:rgb(255, 0, 0)">Traje Hazmat</span>:**  
   Roupa impermeável que cobre o corpo inteiro, usada para evitar o contato com materiais tóxicos. Concede +5 em testes de resistência contra efeitos ambientais e resistência a químicos (valor 10).
-
-# <span style="color:rgb(0, 176, 240)">Condições</span>
-
 # <span style="color:rgb(0, 176, 240)">Ações Livres</span>
 
 - **<span style="color:rgb(146, 208, 80)">Busca Obstinada</span>.**  
@@ -424,3 +421,132 @@ Sempre que um personagem falha em um teste de Fortitude ao sofrer dano massivo, 
 Um ferimento debilitante impõe -1d20 em testes baseados no atributo afetado. Se o atributo afetado for Vigor, reduz os PV máximos em -1 para cada 5% do NEX.
 
 Curar um ferimento debilitante exige um teste de Medicina (DT 20) e repouso.
+
+# <span style="color:rgb(0, 176, 240)">Manobras</span> 
+- **<span style="color:rgb(146, 208, 80)">Agarrar</span>**: Teste de força ganha quem tirar maior, se empatar, ganha quem tenta agarrar, agarrado significa ter -1d20 em testes de ataque, ficar imóvel e desprevenido. 
+	Soltar-se do agarrador é uma ação padrão e teste de força contra.
+	Agarrar alguém mantém uma mão ocupada e torna o teu movimento metade.
+	Soltar uma pessoa agarrada por ti é uma ação livre
+	**UM ATAQUE RANGED CONTRA ALGUÉM AGARRADO TEM 50% DE CHANCE DE ACERTAR O AGARRADOR E VICE-VERSA**
+- <span style="color:rgb(146, 208, 80)">Derrubar</span>: Teste de força, se ganhar por mais de 5 empurra 1.5 metros.
+- <span style="color:rgb(146, 208, 80)">Desarmar</span>: Mesma coisa que o derrubar basicamente
+- <span style="color:rgb(146, 208, 80)">Empurrar</span>: Teste de força, empurra 1.5 metros, cada 5 pontos de diferença mais 1.5 metros
+# <span style="color:rgb(0, 176, 240)">Defesa</span> 
+- **Bloqueio**: Se treinado em Fortitude, recebe redução de dano equivalente ao bónus de Fortitude, usa a reação da rodada
+- **Contra-Ataque**: Se treinado em Luta, se o oponente errar o ataque recebe uma ação normal **PARA ATAQUE** usando a sua reação da rodada, (não conta como uma rodada nova)
+- **Esquiva**: Se treinado em Reflexos, adiciona bónus de reflexo à sua defesa, gasta a sua reação da rodada 
+# <span style="color:rgb(0, 176, 240)">Situações Especiais</span>
+## <span style="color:rgb(146, 208, 80)">Camuflagem</span>
+
+Você recebe **camuflagem** quando um efeito atrapalha a visão dos inimigos. Isso pode ser causado por escuridão, neblina, folhagens ou outro efeito similar presente no local ou entre você e o oponente. Quando você está sob camuflagem, ataques contra você têm **20% de chance de falhar**.  
+*(Ao fazer um ataque, o atacante rola 1d10 junto com o d20 do teste de ataque; se o d10 resultar em 1 ou 2, o ataque erra, independentemente do resultado do teste.)*
+
+Você recebe **camuflagem total** quando um efeito impede completamente a visão dos inimigos – por exemplo, em uma câmara de escuridão total. Nessa situação, a chance de falha é **50%** *(ou seja, se o d10 resultar entre 1 e 5)*.
+
+## <span style="color:rgb(146, 208, 80)">Cobertura</span>
+
+Você recebe **cobertura** quando está atrás de algo que bloqueia o ataque dos inimigos, como um muro, a lateral de um carro ou um ser maior que você. A cobertura fornece **+5 na Defesa**.  
+No mapa, tanto o atacante quanto o alvo escolhem um canto do quadrado onde estão. Em seguida, trace uma linha reta entre esses cantos. Se a linha for interrompida por um obstáculo ou ser, o alvo tem cobertura. Se a linha seguir ao longo de um obstáculo ou apenas tocar a ponta de um obstáculo, o alvo **não recebe cobertura**.
+
+## <span style="color:rgb(146, 208, 80)">Tabela 4.4: Situações Especiais</span>
+
+### Modificadores no Ataque (Atacante)
+
+| Situação do Atacante | Modificador no Ataque                     |
+| -------------------- | ----------------------------------------- |
+| Caído                | -2d20                                     |
+| Cego                 | 50% de chance de falha                    |
+| Em posição elevada   | +1d20                                     |
+| Flanqueando o alvo   | +1d20 (apenas para ataques corpo a corpo) |
+| Invisível            | +2d20 (não se aplica a alvos cegos)       |
+| Ofuscado             | -1d20                                     |
+
+### Modificadores na Defesa (Alvo)
+
+| Situação do Alvo            | Modificador na Defesa                                                            |
+| --------------------------- | -------------------------------------------------------------------------------- |
+| Caído                       | -5 contra ataques corpo a corpo, +5 contra ataques à distância                   |
+| Cego                        | -5                                                                               |
+| Desprevenido                | -5                                                                               |
+| Sob camuflagem              | 20% de chance de falha                                                           |
+| Sob camuflagem total        | 50% de chance de falha                                                           |
+| Sob cobertura               | +5                                                                               |
+| Sob cobertura total         | O alvo não pode ser atacado                                                      |
+# <span style="color:rgb(0, 176, 240)">Interlúdio</span>
+
+**Interlúdio** são momentos de pausa na vida de um agente, quando ele não está ativamente investigando ou combatendo o paranormal. Durante essas cenas, os personagens têm a oportunidade de descansar, refletir sobre as pistas já coletadas e planejar seus próximos passos, geralmente em locais seguros (como esconderijos ou hotéis). O mestre define quando um interlúdio começa e termina, e o acesso a certas condições de descanso (como luxo) depende do ambiente e do limite de crédito do personagem.
+
+Durante um interlúdio, cada personagem pode realizar até **duas** das seguintes ações:
+
+- **<span style="color:rgb(146, 208, 80)">Alimentar-se</span>:**  
+  O personagem escolhe um prato especial (Favorito, Nutritivo, Energético ou Rápido) que oferece benefícios adicionais, como:
+  - Recuperação extra de Sanidade (Prato Favorito).
+  - Aumento na recuperação de PV se dormir (Prato Nutritivo).
+  - Aumento na recuperação de PE se dormir (Prato Energético).
+  - Bônus em testes de perícia ao revisar o caso (Prato Rápido).
+
+- **<span style="color:rgb(146, 208, 80)">Dormir</span>:**  
+  Descansar por um período curto para recuperar pontos de vida (PV) e pontos de esforço (PE). A recuperação varia conforme a qualidade do descanso:
+  - **Normal:** Recupera PV e PE iguais ao limite de PE por rodada.
+  - **Precária:** Recuperação reduzida pela metade.
+  - **Confortável:** Recuperação dobrada.
+  - **Luxuosa:** Recuperação triplicada.  
+  (Cada personagem pode dormir apenas uma vez por interlúdio.)
+
+- **<span style="color:rgb(146, 208, 80)">Exercitar-se</span>:**  
+  Praticar atividade física (como correr ou treinar combate) concede um bônus de **+1d6** em testes baseados em Agilidade, Força ou Vigor até o fim da missão. Esse bônus pode ser acumulado, com um limite igual ao valor de Vigor do personagem, mas apenas um bônus pode ser aplicado por teste.
+
+- **<span style="color:rgb(146, 208, 80)">Ler</span>:**  
+  Dedicar-se à leitura de material relevante (não memes) confere um bônus de **+1d6** em testes baseados em Intelecto ou Presença até o fim da missão. O bônus pode acumular até o valor de Intelecto do personagem, mas somente um bônus é utilizado por teste.
+
+- **<span style="color:rgb(146, 208, 80)">Manutenção</span>:**  
+  Consertar um item quebrado, restaurando-o ao máximo (recuperando seus pontos de vida).
+
+- **<span style="color:rgb(146, 208, 80)">Relaxar</span>:**  
+  Realizar uma atividade que acalme a mente e proporcione relaxamento, funcionando de forma similar ao dormir, mas recuperando Sanidade em vez de PV e PE. Se vários personagens relaxarem no mesmo interlúdio, cada um concede 1 ponto de Sanidade adicional aos demais. Essa ação só pode ser feita uma vez por interlúdio.
+
+- **<span style="color:rgb(146, 208, 80)">Revisar Caso</span>:**  
+  O personagem revisa suas anotações e pistas coletadas, realizando um teste (com DT definido previamente) para obter uma pista complementar ou confirmar que todas as pistas já foram encontradas. Essa ação pode ser repetida na mesma cena de interlúdio.
+
+Essas opções permitem que os personagens se recuperem física e mentalmente, melhorem seus recursos e se preparem para as próximas cenas de investigação ou ação.
+# <span style="color:rgb(0, 176, 240)">Condições</span>
+- **<span style="color:rgb(146, 208, 80)">Abalado</span>:** O personagem sofre –1d20 em testes. Se ficar abalado novamente, em vez disso fica **apavorado**.
+- **<span style="color:rgb(146, 208, 80)">Agarrado</span>:** O personagem fica **desprevenido** e **imóvel**, sofre –1d20 em testes de ataque e só pode atacar com armas leves. Um ataque à distância contra um alvo agarrado tem 50% de chance de acertar o alvo errado.
+- **<span style="color:rgb(146, 208, 80)">Alquebrado</span>:** O custo em pontos de esforço das habilidades e dos rituais do personagem aumenta em +1.
+- **<span style="color:rgb(146, 208, 80)">Apavorado</span>:** O personagem sofre –2d20 em testes de perícia e deve fugir da fonte do medo da maneira mais eficiente possível (mas pode parar assim que a perder de vista ou se afastar mais do que alcance médio). Se não puder fugir, pode agir, mas não pode se aproximar voluntariamente da fonte do medo.
+- **<span style="color:rgb(146, 208, 80)">Asfixiado</span>:** O personagem não pode respirar. Pode prender a respiração por um número de rodadas igual ao seu Vigor. Depois disso, deve fazer um teste de Fortitude por rodada (DT 5 + 5 por teste anterior). Se falhar, cai inconsciente e perde 1d6 PV por rodada até respirar novamente ou morrer.
+- **<span style="color:rgb(146, 208, 80)">Atordoado</span>:** O personagem fica **desprevenido** e não pode fazer ações.
+- **<span style="color:rgb(146, 208, 80)">Caído</span>:** O personagem sofre –2d20 em ataques corpo a corpo e seu deslocamento é reduzido a 1,5m. Além disso, sofre –5 na Defesa contra ataques corpo a corpo, mas recebe +5 na Defesa contra ataques à distância.
+- **<span style="color:rgb(146, 208, 80)">Cego</span>:** O personagem fica **desprevenido** e **lento**, não pode fazer testes de Percepção para observar e sofre –2d20 em testes de perícias baseadas em Agilidade ou Força. Todos os alvos de seus ataques recebem camuflagem total. Você é considerado cego enquanto estiver em uma área de escuridão total, a menos que algo lhe permita perceber no escuro.
+- **<span style="color:rgb(146, 208, 80)">Confuso</span>:** O personagem comporta-se de modo aleatório. Role 1d6 no início de seus turnos:
+    1. Movimenta-se em uma direção aleatória (1d8).  
+        2-3) Não pode fazer ações e balbucia incoerentemente.  
+        4-5) Usa a arma empunhada para atacar o ser mais próximo ou a si mesmo (role apenas o dano se estiver sozinho).
+    2. A condição termina e pode agir normalmente.
+- **<span style="color:rgb(146, 208, 80)">Debilitado</span>:** O personagem sofre –2d20 em testes de Agilidade, Força e Vigor. Se ficar debilitado novamente, em vez disso fica **inconsciente**.
+- **<span style="color:rgb(146, 208, 80)">Desprevenido</span>:** O personagem sofre –5 na Defesa e –1d20 em Reflexos. Você fica **desprevenido** contra inimigos que não possa perceber.
+- **<span style="color:rgb(146, 208, 80)">Doente</span>:** Sob efeito de uma doença.
+- **<span style="color:rgb(146, 208, 80)">Em</span> <span style="color:rgb(146, 208, 80)">Chamas</span>:** No início de seus turnos, sofre 1d6 pontos de dano de fogo. Pode gastar uma ação padrão para apagar as chamas com as mãos ou se jogar na água.
+- **<span style="color:rgb(146, 208, 80)">Enjoado</span>:** O personagem só pode realizar uma ação padrão ou de movimento (não ambas) por rodada.
+- **<span style="color:rgb(146, 208, 80)">Enredado</span>:** O personagem fica **lento**, **vulnerável** e sofre –1d20 em testes de ataque.
+- **<span style="color:rgb(146, 208, 80)">Envenenado</span>:** O efeito desta condição varia de acordo com o veneno. Pode ser outra condição (ex.: **fraco** ou **enjoado**) ou dano recorrente (ex.: 1d12 de dano por rodada). Se nada for especificado, dura pela cena. Dano recorrente sempre se acumula.
+- **<span style="color:rgb(146, 208, 80)">Esmorecido</span>:** O personagem sofre –2d20 em testes de Intelecto e Presença.
+- **<span style="color:rgb(146, 208, 80)">Exausto</span>:** O personagem fica **debilitado**, **lento** e **vulnerável**. Se ficar exausto novamente, em vez disso fica **inconsciente**.
+- **<span style="color:rgb(146, 208, 80)">Fascinado</span>:** O personagem sofre –2d20 em Percepção e não pode fazer ações, exceto observar aquilo que o fascinou. Qualquer ação hostil contra ele encerra essa condição.
+- **<span style="color:rgb(146, 208, 80)">Fatigado</span>:** O personagem fica **fraco** e **vulnerável**. Se ficar fatigado novamente, em vez disso fica **exausto**.
+- **<span style="color:rgb(146, 208, 80)">Fraco</span>:** O personagem sofre –1d20 em testes de Agilidade, Força e Vigor. Se ficar fraco novamente, em vez disso fica **debilitado**.
+- **<span style="color:rgb(146, 208, 80)">Frustrado</span>:** O personagem sofre –1d20 em testes de Intelecto e Presença. Se ficar frustrado novamente, em vez disso fica **esmorecido**.
+- **<span style="color:rgb(146, 208, 80)">Imóvel</span>:** Todas as formas de deslocamento do personagem são reduzidas a 0m.
+- **<span style="color:rgb(146, 208, 80)">Inconsciente</span>:** O personagem fica **indefeso** e não pode fazer ações, incluindo reações. Balançar um ser para acordá-lo gasta uma ação padrão.
+- **<span style="color:rgb(146, 208, 80)">Indefeso</span>:** O personagem é considerado **desprevenido**, sofre –10 na Defesa, falha automaticamente em Reflexos e pode sofrer **golpe de misericórdia**.
+- **<span style="color:rgb(146, 208, 80)">Lento</span>:** Todas as formas de deslocamento são reduzidas à metade (arredonde para o menor incremento de 1,5m) e ele não pode correr ou fazer investidas.
+- **<span style="color:rgb(146, 208, 80)">Machucado</span>:** O personagem tem menos da metade de seus pontos de vida totais.
+- **<span style="color:rgb(146, 208, 80)">Morrendo</span>:** Com 0 PV. Se iniciar três turnos morrendo na mesma cena (não necessariamente consecutivos), morre. Esta condição só é encerrada com um teste de Medicina (DT 20) ou por efeitos específicos.
+- **<span style="color:rgb(146, 208, 80)">Ofuscado</span>:** O personagem sofre –1d20 em testes de ataque e de Percepção.
+- **<span style="color:rgb(146, 208, 80)">Paralisado</span>:** O personagem fica **imóvel** e **indefeso** e só pode realizar ações puramente mentais.
+- **<span style="color:rgb(146, 208, 80)">Pasmo</span>:** O personagem não pode fazer ações.
+- **<span style="color:rgb(146, 208, 80)">Petrificado</span>:** O personagem fica **inconsciente** e recebe resistência a dano 10.
+- **<span style="color:rgb(146, 208, 80)">Sangrando</span>:** No início de seus turnos, o personagem deve fazer um teste de Vigor (DT 20). Se passar, estabiliza e remove essa condição. Se falhar, perde 1d6 PV e continua sangrando.
+- **<span style="color:rgb(146, 208, 80)">Surdo</span>:** O personagem não pode fazer testes de Percepção para ouvir e sofre –2d20 em testes de Iniciativa. Além disso, está em **condição ruim** para lançar rituais.
+- **<span style="color:rgb(146, 208, 80)">Surpreendido</span>:** O personagem fica **desprevenido** e não pode fazer ações.
+- **<span style="color:rgb(146, 208, 80)">Vulnerável</span>:** O personagem sofre –2 na Defesa.
