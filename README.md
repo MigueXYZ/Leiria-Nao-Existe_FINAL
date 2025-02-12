@@ -1,3 +1,2 @@
 # Leiria-Nao-Existe
-Regras:
-[[1-Regras]]
+Regras:[Link](1-Regras/1-Regras.md)
