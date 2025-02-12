@@ -1,2 +1,3 @@
-theme: just-the-docs
 title: Leiria Não Existe
+theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs@main
