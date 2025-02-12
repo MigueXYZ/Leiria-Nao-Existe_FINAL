@@ -67,11 +67,11 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 | Fogo          | Dispara uma bala; é afetada por efeitos contra armas de disparo e por efeito contra armas de fogo   |
 
 ### Empunhadura:
-| Tipo      | Descrição                                                                                                                                       |
-| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Leve      | Arma de uma mão. Ataques desarmados são leves                                                                                                   |
-| Uma Mão   | Utilizada com uma mão, a outra fica disponível para outras ações                                                                               |
-| Duas Mãos | Usa duas mãos. Apoiar a arma no chão (no caso de arma de long range) para liberar uma mão é uma ação livre. Reempunhá-la é uma ação de movimento |
+| Empunhadura | Descrição                                                                                                                                       |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leve        | Arma de uma mão. Ataques desarmados são leves                                                                                                   |
+| Uma Mão     | Utilizada com uma mão, a outra fica disponível para outras ações                                                                               |
+| Duas Mãos   | Usa duas mãos. Apoiar a arma no chão (no caso de arma de long range) para liberar uma mão é uma ação livre. Reempunhá-la é uma ação de movimento |
 
 ### Características:
 - **Categoria:** A categoria do item, que define quantos podem ser carregados; cada modificação de arma aumenta a categoria em 1.
