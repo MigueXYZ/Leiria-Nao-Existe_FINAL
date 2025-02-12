@@ -8,12 +8,108 @@ Cada perícia tem coisas únicas sobre ela e ações especiais, é uma lista ext
 
 As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 
-|Treinamento|Bônus|
-|---|---|
-|Não Treinado|0|
-|Treinado|5|
-|Veterano|10|
-|Expert|15|
+| Treinamento  | Bônus |
+| ------------ | ----- |
+| Não Treinado | 0     |
+| Treinado     | 5     |
+| Veterano     | 10    |
+| Expert       | 15    |
+# <span style="color:rgb(0, 176, 240)">Equipamento</span>
+## <span style="color:rgb(146, 208, 80)">Patente</span>
+- Existem várias patentes das quais os agentes podem ser:
+
+| Pontos de Prestígio | Patente              | Limite de Crédito | Itens Cat 1 | Itens Cat 2 | Itens Cat 3 | Itens Cat 4 |
+| ------------------- | -------------------- | ----------------- | ----------- | ----------- | ----------- | ----------- |
+| 0                   | Recruta              | Baixo             | 2           | -           | -           | -           |
+| 20                  | Operador             | Médio             | 3           | 1           | -           | -           |
+| 50                  | Agente Especial      | Médio             | 3           | 2           | 1           | -           |
+| 100                 | Oficial de Operações | Alto              | 3           | 3           | 2           | 1           |
+| 200                 | Agente de Elite      | Ilimitado         | 3           | 3           | 3           | 2           |
+## <span style="color:rgb(146, 208, 80)">Crédito</span>
+- Dependendo do nível de crédito os agentes podem usar o dinheiro da ordem para suas necessidades em missão:
+
+| Limite    | Poder de Compra                                                                                                                                                                                                    |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Baixo     | Pode comprar necessidades básicas como comida, roupa, medicação, alugar carros básicos/transportes públicos. Hospedagem básica como um airbnb barato ou um hotel 2 estrelas.(descanço normal, ver secção descanço) |
+| Médio     | Pode comprar passagens aéreas e hospedagem de boa qualidade (descanço confortável)                                                                                                                                 |
+| Alto      | Qualquer tipo de necessidade e hospedagens luxuosas(descanço luxuoso)                                                                                                                                              |
+| Ilimitado | Qualquer tipo de necessidade, sem limite de preço... Sem beirar o ridículo                                                                                                                                         |
+## <span style="color:rgb(146, 208, 80)">Pontos de Prestígio</span>
+
+- Pontos de prestígio podem ser ganhos ou perdidos dependendo das ações dos jogadores
+
+| Acontecimento                                | Pontos |
+| -------------------------------------------- | ------ |
+| Solução do Caso (Não necessariamente missão) | +10    |
+| Pista Adicional Encontrada                   | +2     |
+| Morte de Inocente                            | -2     |
+| Morte de Agente                              | -5     |
+## <span style="color:rgb(146, 208, 80)">Armas</span>
+
+| Categoria          | Arma                          | Dano     | Crítico | Alcance | Tipo | Espaços | Categoria |
+| ------------------ | ----------------------------- | -------- | ------- | ------- | ---- | ------- | --------- |
+| **Armas Simples**  | **Corpo a Corpo – Leves**     |          |         |         |      |         |           |
+|                    | Coronhada                     | 1d4/1d6  | x2      | —       | I    | —       | -         |
+|                    | Faca                          | 1d4      | 19      | Curto   | C    | 1       | 0         |
+|                    | Martelo                       | 1d6      | x2      | —       | I    | 1       | 0         |
+|                    | Punhal                        | 1d4      | x3      | —       | P    | 1       | 0         |
+| **Armas Simples**  | **Corpo a Corpo – Uma Mão**   |          |         |         |      |         |           |
+|                    | Bastão                        | 1d6/1d8  | x2      | —       | I    | 1       | 0         |
+|                    | Machete                       | 1d6      | 19      | —       | C    | 1       | 0         |
+|                    | Lança                         | 1d6      | x2      | Curto   | P    | 1       | 0         |
+| **Armas Simples**  | **Corpo a Corpo – Duas Mãos** |          |         |         |      |         |           |
+|                    | Cajado                        | 1d6/1d6  | x2      | —       | I    | 2       | 0         |
+| **Armas Simples ** | **Disparo - Duas Mãos**       |          |         |         |      |         |           |
+|                    | Arco                          | 1d6      | x3      | Médio   | P    | 2       | 0         |
+|                    | Flechas                       | —        | —       | —       | —    | 1       | 0         |
+|                    | Besta                         | 1d8      | 19      | Médio   | P    | 2       | 0         |
+|                    | Flechas                       | —        | —       | —       | —    | 1       | 0         |
+| **Armas Simples**  | Fogo - Leves                  |          |         |         |      |         |           |
+|                    | Pistola                       | 1d12     | 18      | C       | B    | 1       | 1         |
+|                    | Balas curtas                  | —        | —       | —       | —    | 1       | 0         |
+|                    | Revólver                      | 2d6      | 19/x3   | Curto   | B    | 1       | 1         |
+|                    | Balas curtas                  | —        | —       | —       | —    | 1       | 0         |
+| **Armas Simples**  | Fogo - Duas Mãos              |          |         |         |      |         |           |
+|                    | Fuzil de caça                 | 2d8      | 19/x3   | Médio   | B    | 2       | 1         |
+|                    | Balas longas                  | —        | —       | —       | —    | 1       | 1         |
+| **Armas Táticas**  | **Corpo a Corpo – Leves**     |          |         |         |      |         |           |
+|                    | Machadinha                    | 1d6      | x3      | Curto   | C    | 1       | 0         |
+|                    | Nunchaku                      | 1d8      | x2      | —       | I    | 1       | 0         |
+| **Armas Táticas**  | **Corpo a Corpo – Uma Mão**   |          |         |         |      |         |           |
+|                    | Corrente                      | 1d8      | z2      | —       | I    | 1       | 0         |
+|                    | Espada                        | 1d8/1d10 | 19      | —       | C    | 1       | 1         |
+|                    | Florete                       | 1d6      | 18      | —       | C    | 1       | 1         |
+|                    | Machado                       | 1d8      | x3      | —       | C    | 1       | 1         |
+|                    | Maça                          | 2d4      | x2      | —       | I    | 1       | 1         |
+| **Armas Táticas**  | **Corpo a Corpo – Duas Mãos** |          |         |         |      |         |           |
+|                    | Acha                          | 1d12     | x3      | —       | C    | 2       | 1         |
+|                    | Gadanho                       | 2d4      | x4      | —       | C    | 2       | 1         |
+|                    | Katana                        | 1d10     | 19      | —       | C    | 2       | 1         |
+|                    | Marreta                       | 3d4      | x2      | —       | I    | 2       | 1         |
+|                    | Montante                      | 2d6      | 19      | —       | C    | 2       | 1         |
+|                    | Motoserra                     | 3d6      | x2      | —       | C    | 2       | 1         |
+| **Armas Táticas**  | **Disparo - Duas Mãos**       |          |         |         |      |         |           |
+|                    | Arco composto                 | 1d10     | x3      | Médio   | P    | 2       | 1         |
+|                    | Flechas                       | —        | —       | —       | —    | 1       | 0         |
+|                    | Balestra                      | 1d12     | 19      | Médio   | P    | 2       | 1         |
+|                    | Flechas                       | —        | —       | —       | —    | 1       | 0         |
+| **Armas Táticas**  | **Fogo - Uma Mão**            |          |         |         |      |         |           |
+|                    | Submetralhadora               | 2d6      | 19/x3   | Curto   | B    | 1       | 1         |
+|                    | Balas curtas                  | —        | —       | —       | —    | 1       | 0         |
+| **Armas Táticas**  | **Fogo - Duas Mãos**          |          |         |         |      |         |           |
+|                    | Espingarda                    | 4d6      | x3      | Curto   | B    | 2       | 1         |
+|                    | Cartuchos                     | —        | —       | —       | —    | 1       | 1         |
+|                    | Fuzil de assalto              | 2d10     | 19/x3   | Médio   | B    | 2       | 2         |
+|                    | Balas longas                  | —        | —       | —       | —    | 1       | 1         |
+|                    | Fuzil de precisão             | 2d10     | 19/x3   | Longo   | B    | 2       | 3         |
+|                    | Balas longas                  | —        | —       | —       | —    | 1       | 1         |
+| **Armas Pesadas**  | **À Distância – Duas Mãos**   |          |         |         |      |         |           |
+|                    | Bazuca                        | 10d8     | x2      | Médio   | I    | 2       | 3         |
+|                    | Foguete                       | —        | —       | —       | —    | 1       | 1         |
+|                    | Lança-chamas                  | 6d6      | x2      | Curto   | Fogo | 2       | 3         |
+|                    | Combustível                   | —        | —       | —       | —    | 1       | 1         |
+|                    | Metralhadora                  | 2d12     | 19/x3   | Médio   | B    | 2       | 2         |
+|                    | Balas longas                  | —        | —       | —       | —    | 1       | 1         |
 
 # <span style="color:rgb(0, 176, 240)">Condições</span>
 
