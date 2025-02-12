@@ -1,4 +1,4 @@
-Igor:
+Igor Dantas:
 	45 anos
 	1.75m
 	B+

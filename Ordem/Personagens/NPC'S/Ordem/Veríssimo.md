@@ -12,7 +12,7 @@ Jorge Mendes era um inspetor da polícia portuguesa altamente respeitado, conhec
 
 O encontro quase custou sua sanidade, mas Max, de alguma forma, conseguiu farejar e guiar Jorge para fora da emboscada. Foi nesse momento que ele percebeu que o mundo ia além do crime comum – algo muito pior estava à espreita nas sombras.
 
-Pouco tempo depois, agentes da **Ordo Realitas** entraram em contato com ele, reconhecendo suas habilidades e seu talento para farejar a verdade. Relutante no início, Jorge acabou se juntando à organização, trazendo sua experiência policial para o combate contra o paranormal.
+Pouco tempo depois, agentes da **[[Ordo Realitas]]** entraram em contato com ele, reconhecendo suas habilidades e seu talento para farejar a verdade. Relutante no início, Jorge acabou se juntando à organização, trazendo sua experiência policial para o combate contra o paranormal.
 
 Agora, ele age tanto como um detetive quanto como um agente da Ordo, sempre acompanhado de Max, que também parece ter sido afetado pelo encontro com o desconhecido.
 

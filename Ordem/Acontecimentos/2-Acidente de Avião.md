@@ -51,5 +51,6 @@ A **[[Ordo Realitas]]** recebeu informações confidenciais sobre um acidente de
 - Cartão de Cidadão do [[Dr. Gabriel Novák]]
 - Alguns documentos arqueológicos:
 	- Licença para exploração do local
+	- Um papel com um número: +351 [[913400413]] a dizer "Zkuste to znovu", ou traduzindo de tcheco, diz: "Tenta Outra Vez"
 	- Mapa topográfico do sitio onde encontrou o mapa:
 		- [[Čachtice]], mais especifico, da zona do castelo
