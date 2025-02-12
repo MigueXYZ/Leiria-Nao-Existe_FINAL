@@ -59,19 +59,15 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 - **Penalidade por Não Proficiência:** Ao usar uma arma que não saiba usar, sofre -2d20 nos testes.
 
 ### Tipo:
-| Tipo          | Descrição                                                                                         |
-| ------------- | ------------------------------------------------------------------------------------------------- |
-| Corpo a Corpo | Arma é usada para atacar                                                                          |
-| Arremesso     | A arma é atirada para atacar                                                                      |
-| Disparo       | A arma dispara projéteis                                                                            |
-| Fogo          | Dispara uma bala; é afetada por efeitos contra armas de disparo e por efeito contra armas de fogo   |
+- **Corpo a Corpo:** A arma é usada para atacar.
+- **Arremesso:** A arma é atirada para atacar.
+- **Disparo:** A arma dispara projéteis.
+- **Fogo:** Dispara uma bala; é afetada por efeitos contra armas de disparo e por efeitos contra armas de fogo.
 
 ### Empunhadura:
-| Empunhadura | Descrição                                                                                                                                       |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Leve        | Arma de uma mão. Ataques desarmados são leves                                                                                                   |
-| Uma Mão     | Utilizada com uma mão, a outra fica disponível para outras ações                                                                               |
-| Duas Mãos   | Usa duas mãos. Apoiar a arma no chão (no caso de arma de long range) para liberar uma mão é uma ação livre. Reempunhá-la é uma ação de movimento |
+- **Leve:** Arma de uma mão. Ataques desarmados são leves.
+- **Uma Mão:** Utilizada com uma mão, permitindo que a outra fique disponível para outras ações.
+- **Duas Mãos:** Usa duas mãos. Apoiar a arma no chão (no caso de arma de longo alcance) para liberar uma mão é uma ação livre; reempunhá-la é considerada uma ação de movimento.
 
 ### Características:
 - **Categoria:** A categoria do item, que define quantos podem ser carregados; cada modificação de arma aumenta a categoria em 1.
