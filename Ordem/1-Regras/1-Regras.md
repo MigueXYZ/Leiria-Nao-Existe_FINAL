@@ -49,6 +49,50 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 | Morte de Agente                              | -5     |
 
 ## <span style="color:rgb(146, 208, 80)">Armas</span>
+- Existem alguns pontos onde eu peço para ler o livro porque é muita informação para resumir para aqui sendo que vocês usariam isso 1 vez por missão, sendo que cada missão pode durar inúmeras sessões.
+### Proficiência
+- **Armas Simples**: Todos os personagens sabem usar, são simples.
+- **Armas Táticas**: Espadas, Fuzis e outras armas de complexa utilização. Precisa de treinamento
+- **Armas Pesadas**: Metralhas, Lança-Chamas, RPG. Coisas pesadas e de destruição em massa. Necessário treinamento
+- **Penalidade por Não Proficiência:** Ao usar uma arma que não saiba usar, sofre -2d20 nos testes.
+### Tipo:
+| Tipo          | Descrição                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------- |
+| Corpo a Corpo | Arma é usada para atacar                                                                          |
+| Arremesso     | A arma é atirada para atacar                                                                      |
+| Disparo       | A arma dispara projeteis                                                                          |
+| Fogo          | Dispara uma bala, é afetada por efeitos contra armas de disparo e por efeito contra armas de fogo |
+### Empunhadura:
+
+| Tipo      | Descrição                                                                                                                                       |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Leve      | Arma de uma Mão. Ataques desarmados são leves                                                                                                   |
+| Uma Mão   | Uma mão, A outra fica disponível para outras ações                                                                                              |
+| Duas Mãos | Usa duas mãos. Apoiar a arma no chão(no caso de arma de long range) para liberar uma mão é uma ação livre. Reempunhá-la é uma ação de movimento |
+### Características:
+- **Categoria**: A categoria do item, para saber quantos podem carregar, cada modificação de arma aumenta a categoria em 1.
+- **Dano**: Auto explicativo, se houver 2 valores diferentes, o valor mais baixo é ao usar a arma com uma mão e o maior com 2 mãos.
+- **Crítico**: Ao acertar um nat 20 **SÓ E APENAS SÓ** os dados são multiplicados. na secção de crítico da tabela tem algo como x2, que significa que ao acertar um nat 20 os dados são multiplicados por 2. Pode aparecer um 19 que significa que **O DADO** tem de ser um nat 19 ou maior para o multiplicador ser ativado. se tiver as duas coisas é uma junção de ambos os efeitos.
+	- **EXEMPLO:** Um acerto com uma arma com crítico 19/x3 e dano 1d8. Eu lanço o dado e calha um 19 **NO DADO** significa que ao invés de eu rolar 1d8 para o dano, eu rolo 3d8 e só depois é que adiciono outros valores como por exemplo o modificador de ataque furtivo.
+- **Alcance**: 
+	- Curto - 9 metros
+	- Médio - 18 metros
+	- Longo - 36 metros
+	- Extremo - 90 metros
+- **Tipo**: Tipo de dano da arma
+	- C - Corte
+	- I - Impacto
+	- P - Perfuração
+	- B - Balístico
+- **Espaços**: A quantidade de espaços que o item/arma ocupa
+- **Habilidades**: Para isso perguntem-me ou vejam o livro na página 58, cada arma pode ter algo específico, exemplo sendo a corrente dar +2 de bónus em testes para desarmar e/ou derrubar
+	- **Armas Ágeis**: Ao invés de aplicar força pode aplicar agilidade nas rolagens de ataque e dano
+	- **Armas Automáticas**: Pode disparar de rajada, -1d20 no teste de acerto, +1 dado de dano
+	- **Coronhada**: 1d4 para armas de fogo leve e uma mão, 1d6 para armas de fogo de duas mãos
+### Modificações:
+- Modificações podem ser aplicadas em armas, elas dão um boost à arma em troca de aumentar a categoria da mesma.
+- Ver Página 61 do livro.
+### Lista:
 
 | Categoria          | Arma                          | Dano     | Crítico | Alcance | Tipo | Espaços | Categoria |
 | ------------------ | ----------------------------- | -------- | ------- | ------- | ---- | ------- | --------- |
