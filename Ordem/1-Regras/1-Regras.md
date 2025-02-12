@@ -461,17 +461,6 @@ No mapa, tanto o atacante quanto o alvo escolhem um canto do quadrado onde estã
 | Invisível            | +2d20 (não se aplica a alvos cegos)       |
 | Ofuscado             | -1d20                                     |
 
-### Modificadores na Defesa (Alvo)
-
-| Situação do Alvo            | Modificador na Defesa                                                            |
-| --------------------------- | -------------------------------------------------------------------------------- |
-| Caído                       | -5 contra ataques corpo a corpo, +5 contra ataques à distância                   |
-| Cego                        | -5                                                                               |
-| Desprevenido                | -5                                                                               |
-| Sob camuflagem              | 20% de chance de falha                                                           |
-| Sob camuflagem total        | 50% de chance de falha                                                           |
-| Sob cobertura               | +5                                                                               |
-| Sob cobertura total         | O alvo não pode ser atacado                                                      |
 # <span style="color:rgb(0, 176, 240)">Interlúdio</span>
 
 **Interlúdio** são momentos de pausa na vida de um agente, quando ele não está ativamente investigando ou combatendo o paranormal. Durante essas cenas, os personagens têm a oportunidade de descansar, refletir sobre as pistas já coletadas e planejar seus próximos passos, geralmente em locais seguros (como esconderijos ou hotéis). O mestre define quando um interlúdio começa e termina, e o acesso a certas condições de descanso (como luxo) depende do ambiente e do limite de crédito do personagem.
