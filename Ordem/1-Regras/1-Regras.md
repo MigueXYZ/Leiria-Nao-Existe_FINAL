@@ -8,23 +8,25 @@ Cada perícia tem coisas únicas sobre ela e ações especiais, é uma lista ext
 
 As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 
-| Treinamento  | Bônus |
-| ------------ | ----- |
-| Não Treinado | 0     |
-| Treinado     | 5     |
-| Veterano     | 10    |
-| Expert       | 15    |
+| Treinamento   | Bônus |
+| ------------- | ----- |
+| Não Treinado  | 0     |
+| Treinado      | 5     |
+| Veterano      | 10    |
+| Expert        | 15    |
+
 # <span style="color:rgb(0, 176, 240)">Equipamento</span>
 ## <span style="color:rgb(146, 208, 80)">Patente</span>
 - Existem várias patentes das quais os agentes podem ser:
 
-| Pontos de Prestígio | Patente              | Limite de Crédito | Itens Cat 1 | Itens Cat 2 | Itens Cat 3 | Itens Cat 4 |
-| ------------------- | -------------------- | ----------------- | ----------- | ----------- | ----------- | ----------- |
-| 0                   | Recruta              | Baixo             | 2           | -           | -           | -           |
-| 20                  | Operador             | Médio             | 3           | 1           | -           | -           |
-| 50                  | Agente Especial      | Médio             | 3           | 2           | 1           | -           |
-| 100                 | Oficial de Operações | Alto              | 3           | 3           | 2           | 1           |
-| 200                 | Agente de Elite      | Ilimitado         | 3           | 3           | 3           | 2           |
+| Pontos de Prestígio | Patente               | Limite de Crédito | Itens Cat 1 | Itens Cat 2 | Itens Cat 3 | Itens Cat 4 |
+| ------------------- | --------------------- | ----------------- | ----------- | ----------- | ----------- | ----------- |
+| 0                   | Recruta               | Baixo             | 2           | -           | -           | -           |
+| 20                  | Operador              | Médio             | 3           | 1           | -           | -           |
+| 50                  | Agente Especial       | Médio             | 3           | 2           | 1           | -           |
+| 100                 | Oficial de Operações  | Alto              | 3           | 3           | 2           | 1           |
+| 200                 | Agente de Elite       | Ilimitado         | 3           | 3           | 3           | 2           |
+
 ## <span style="color:rgb(146, 208, 80)">Crédito</span>
 - Dependendo do nível de crédito os agentes podem usar o dinheiro da ordem para suas necessidades em missão:
 
@@ -34,6 +36,7 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 | Médio     | Pode comprar passagens aéreas e hospedagem de boa qualidade (descanço confortável)                                                                                                                                 |
 | Alto      | Qualquer tipo de necessidade e hospedagens luxuosas(descanço luxuoso)                                                                                                                                              |
 | Ilimitado | Qualquer tipo de necessidade, sem limite de preço... Sem beirar o ridículo                                                                                                                                         |
+
 ## <span style="color:rgb(146, 208, 80)">Pontos de Prestígio</span>
 
 - Pontos de prestígio podem ser ganhos ou perdidos dependendo das ações dos jogadores
@@ -44,6 +47,7 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 | Pista Adicional Encontrada                   | +2     |
 | Morte de Inocente                            | -2     |
 | Morte de Agente                              | -5     |
+
 ## <span style="color:rgb(146, 208, 80)">Armas</span>
 
 | Categoria          | Arma                          | Dano     | Crítico | Alcance | Tipo | Espaços | Categoria |
@@ -139,12 +143,6 @@ As perícias podem ter 4 níveis de treinamento, com os bônus sendo:
 
 Sempre que a Sanidade de um personagem é reduzida a 0 por dano mental, e sempre que o personagem sofre dano mental enquanto está com Sanidade 0, ele sofre um efeito de medo. Para definir o efeito, o jogador rola 2d10 na tabela abaixo.
 
-Se o personagem sofrer mais de um efeito de medo na mesma cena, deve somar +1 na rolagem para definir o efeito por cada vez adicional, aumentando a chance de sofrer efeitos mais severos.
-
-Caso role um efeito que já possui, em vez disso recebe o próximo efeito na tabela.
-
-## <span style="color:rgb(146, 208, 80)">Tabela de Efeitos de Medo</span>
-
 |2d10|Efeito|Descrição|
 |---|---|---|
 |2|**Encorajamento**|Recupera 1 ponto de SAN para cada 5% de NEX e recebe +1d20 em um teste qualquer até o fim da cena.|
@@ -157,7 +155,7 @@ Caso role um efeito que já possui, em vez disso recebe o próximo efeito na tab
 |9|**Desespero**|Falha automaticamente em testes de Vontade.|
 |10|**Histeria**|Ri ou chora descontroladamente por 1d4 rodadas, sofrendo -1d20 em todos os testes.|
 
-# Ferimentos Debilitantes
+# <span style="color:rgb(0, 176, 240)"> Ferimentos Debilitantes</span>
 
 Sempre que um personagem falha em um teste de Fortitude ao sofrer dano massivo, em vez de ser reduzido a 0 PV, ele sofre um ferimento debilitante. Neste caso, role 1d6 para determinar o atributo afetado pelo ferimento:
 
